@@ -18,4 +18,4 @@ This Tableau project analyzes retail sales, profitability, and geographic perfor
 - Business Analysis  
 
 ##  Dashboard Preview
-![Dashboard](Dashboard 2.jpg)
+![Dashboard](dashboard.png)
