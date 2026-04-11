@@ -116,7 +116,55 @@ Older age groups have higher average medical costs.
 - Data Cleaning & Exploration  
 
 ---
+---
 
+## 4. Business Case Study – Customer Retention Strategy
+
+### Description
+Analyzed customer churn data to identify key drivers of customer attrition and provide actionable business recommendations to improve retention.
+
+### Business Problem
+The company is experiencing customer churn, which impacts revenue and long-term growth. The goal is to identify why customers are leaving and recommend strategies to retain them.
+
+### Key Insights
+- Month-to-month contract customers have significantly higher churn rates  
+- Customers with higher monthly charges are more likely to churn  
+- Customers with low tenure are at the highest risk of leaving  
+
+### Business Recommendations
+- Encourage long-term contracts through discounts or incentives  
+- Review pricing strategy for high-cost customers  
+- Implement onboarding and engagement programs for new customers  
+- Target high-risk customers with retention campaigns  
+
+### Tools Used
+- Python  
+- Pandas  
+- Seaborn  
+- Matplotlib  
+
+### Files
+- business_case_churn_analysis.ipynb  
+- contract_churn.png  
+- monthly_churn.png  
+- tenure_churn.png  
+
+### Key Visualizations
+
+#### Churn by Contract Type
+![Contract](contract_churn.png)
+
+Month-to-month contracts show significantly higher churn compared to long-term plans.
+
+#### Monthly Charges vs Churn
+![Monthly](monthly_churn.png)
+
+Customers with higher monthly charges are more likely to churn.
+
+#### Tenure vs Churn
+![Tenure](tenure_churn.png)
+
+Customers with shorter tenure have a much higher churn rate.
 # About
 
 This portfolio demonstrates my ability to:
