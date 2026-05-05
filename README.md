@@ -181,3 +181,12 @@ This portfolio demonstrates my ability to:
 - Open Tableau files using Tableau Desktop  
 - Open Python notebooks in Google Colab or Jupyter Notebook  
 - Run all cells to reproduce analysis and results  
+
+5. ## NYC 311 Service Equity Dashboard
+Analyzed whether wealthier NYC neighborhoods receive faster 311 complaint resolution times using NYC Open Data and Census income data.
+
+- Built an interactive Plotly Dash dashboard
+- Compared resolution time by ZIP code, income group, borough, complaint type, and time
+- Found that lower-income areas often experienced longer resolution times
+
+[View Project](./nyc-311-service-equity-dashboard)
