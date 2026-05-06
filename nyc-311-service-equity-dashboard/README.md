@@ -9,7 +9,7 @@ The dashboard combines NYC 311 service request data with Census median household
 Do wealthier neighborhoods receive faster resolution times for similar 311 complaints in New York City?
 
 ## Dashboard Preview
-![NYC 311 Service Equity Dashboard](nyc_311_service_equity.jpg)
+![NYC 311 Service Equity Dashboard](nyc_311_service_equity.jpeg)
 
 ## Key Visualizations
 1. Average 311 Resolution Time by ZIP Code  
