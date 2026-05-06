@@ -182,11 +182,24 @@ This portfolio demonstrates my ability to:
 - Open Python notebooks in Google Colab or Jupyter Notebook  
 - Run all cells to reproduce analysis and results  
 
-5. ## NYC 311 Service Equity Dashboard
+## 5. NYC 311 Service Equity Dashboard
+
+### Description
 Analyzed whether wealthier NYC neighborhoods receive faster 311 complaint resolution times using NYC Open Data and Census income data.
 
-- Built an interactive Plotly Dash dashboard
-- Compared resolution time by ZIP code, income group, borough, complaint type, and time
-- Found that lower-income areas often experienced longer resolution times
+### Key Insights
+- Lower-income areas often experienced longer resolution times
+- Median income showed a slight negative relationship with resolution time
+- Heat/Hot Water complaints had the largest average resolution times
+
+### Tools Used
+- Python
+- Pandas
+- Plotly
+- Dash
+
+### Files
+- nyc_311_service_equity_dashboard.ipynb
+- nyc_311_service_equity.jpeg
 
 [View Project](./nyc-311-service-equity-dashboard)
