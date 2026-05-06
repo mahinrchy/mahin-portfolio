@@ -1,205 +1,83 @@
-# Mahin Portfolio
+# Mahin Rowshon Chowdhury – Business Analytics Portfolio
 
-This repository showcases my Business Analytics projects focused on data visualization, exploratory data analysis, and business insights.
+Business Analytics graduate student at Baruch College focused on data analysis, business intelligence, dashboard development, and analytical storytelling.
 
----
-
-# Projects
-
-## 1. Retail Performance Dashboard (Tableau)
-
-### Description
-Analyzed retail sales, profitability, and geographic performance using Tableau to identify key business trends and support decision-making.
-
-### Key Insights
-- Technology category shows the highest profit variability  
-- Office Supplies drives the majority of losses  
-- Sales show overall growth despite fluctuations  
-- Revenue is concentrated in a small number of states  
-
-### Tools Used
-- Tableau  
-
-### Files
-- retail-performance-dashboard.twbx  
-- dashboard.png  
-
-### Preview
-![Retail Dashboard](dashboard.png)
+This portfolio showcases projects involving customer analytics, public service equity analysis, healthcare cost analysis, and interactive business intelligence dashboards.
 
 ---
 
-## 2. Customer Churn Analysis (Python)
+# Technical Skills
 
-### Description
-Performed exploratory data analysis on telecom customer data to identify churn patterns and key drivers of customer retention.
-
-### Key Insights
-- Approximately 26.5% of customers have churned  
-- Month-to-month contracts show the highest churn rate  
-- Higher monthly charges are associated with increased churn  
-- New customers are more likely to churn  
-
-### Business Recommendations
-- Encourage long-term contracts to improve retention  
-- Review pricing strategies for high-cost customers  
-- Focus retention efforts on new customers  
-
-### Tools Used
-- Python  
-- Pandas  
-- Seaborn  
-- Matplotlib  
-
-### Files
-- customer_churn_analysis.ipynb  
-- churn_contract.png  
-- churn_tenure.png  
-
-### Key Visualizations
-
-#### Churn by Contract Type
-![Churn Contract](churn_contract.png)
-
-#### Tenure vs Churn
-![Churn Tenure](churn_tenure.png)
-
----
-
-## 3. Healthcare Cost Analysis (Python + SQL)
-
-### Description
-Analyzed healthcare insurance data to understand how lifestyle and demographic factors impact medical costs. SQL queries were used to generate aggregated insights.
-
-### Key Insights
-- Smokers incur significantly higher medical costs than non-smokers  
-- Obese individuals have the highest average healthcare expenses  
-- Medical costs increase with age, with seniors incurring the highest costs  
-
-### Tools Used
-- Python  
-- Pandas  
-- SQLite  
-- SQL  
-
-### Files
-- healthcare_sql_analysis.ipynb  
-- smoking_cost.png  
-- bmi_cost.png  
-- age_cost.png  
-
-### Key Visualizations
-
-#### Smoking Impact
-![Smoking](smoking_cost.png)
-
-Smokers incur substantially higher medical costs compared to non-smokers.
-
-#### BMI Impact
-![BMI](bmi_cost.png)
-
-Higher BMI categories are associated with increased healthcare expenses.
-
-#### Age Impact
-![Age](age_cost.png)
-
-Older age groups have higher average medical costs.
-
----
-
-# Tools & Skills
-
-- Data Visualization (Tableau)  
-- Python (Pandas, Matplotlib, Seaborn)  
-- SQL (Aggregations, CASE statements, grouping)  
-- Business Analysis  
-- Data Cleaning & Exploration  
-
----
----
-
-## 4. Business Case Study – Customer Retention Strategy
-
-### Description
-Analyzed customer churn data to identify key drivers of customer attrition and provide actionable business recommendations to improve retention.
-
-### Business Problem
-The company is experiencing customer churn, which impacts revenue and long-term growth. The goal is to identify why customers are leaving and recommend strategies to retain them.
-
-### Key Insights
-- Month-to-month contract customers have significantly higher churn rates  
-- Customers with higher monthly charges are more likely to churn  
-- Customers with low tenure are at the highest risk of leaving  
-
-### Business Recommendations
-- Encourage long-term contracts through discounts or incentives  
-- Review pricing strategy for high-cost customers  
-- Implement onboarding and engagement programs for new customers  
-- Target high-risk customers with retention campaigns  
-
-### Tools Used
-- Python  
-- Pandas  
-- Seaborn  
-- Matplotlib  
-
-### Files
-- business_case_churn_analysis.ipynb  
-- contract_churn.png  
-- monthly_churn.png  
-- tenure_churn.png  
-
-### Key Visualizations
-
-#### Churn by Contract Type
-![Contract](contract_churn.png)
-
-Month-to-month contracts show significantly higher churn compared to long-term plans.
-
-#### Monthly Charges vs Churn
-![Monthly](monthly_churn.png)
-
-Customers with higher monthly charges are more likely to churn.
-
-#### Tenure vs Churn
-![Tenure](tenure_churn.png)
-
-Customers with shorter tenure have a much higher churn rate.
-# About
-
-This portfolio demonstrates my ability to:
-
-- Analyze real-world datasets  
-- Build dashboards and visualizations  
-- Translate data into actionable business insights  
-- Communicate findings clearly and effectively  
-
----
-
-# How to Use
-
-- Open Tableau files using Tableau Desktop  
-- Open Python notebooks in Google Colab or Jupyter Notebook  
-- Run all cells to reproduce analysis and results  
-
-## 5. NYC 311 Service Equity Dashboard
-
-### Description
-Analyzed whether wealthier NYC neighborhoods receive faster 311 complaint resolution times using NYC Open Data and Census income data.
-
-### Key Insights
-- Lower-income areas often experienced longer resolution times
-- Median income showed a slight negative relationship with resolution time
-- Heat/Hot Water complaints had the largest average resolution times
-
-### Tools Used
+## Programming & Analytics
 - Python
+- SQL
 - Pandas
-- Plotly
-- Dash
+- Data Cleaning
+- Exploratory Data Analysis
 
-### Files
-- nyc_311_service_equity_dashboard.ipynb
-- nyc_311_service_equity.jpeg
+## Visualization & BI
+- Tableau
+- Plotly Dash
+- Matplotlib
+- Dashboard Development
+- KPI Reporting
 
-[View Project](./nyc-311-service-equity-dashboard)
+## Business & Analytical Skills
+- Business Analytics
+- Data Visualization
+- Analytical Storytelling
+- Business Intelligence
+- Public Sector Analytics
+
+---
+
+# Featured Projects
+
+## Customer Churn Analysis
+End-to-end customer churn analytics project using Python and SQL to identify key drivers of customer attrition and retention risk.
+
+### Highlights
+- Churn segmentation analysis
+- Contract and tenure analysis
+- SQL-based business querying
+- Customer retention recommendations
+
+---
+
+## NYC 311 Service Equity Dashboard
+Interactive dashboard analyzing whether wealthier NYC neighborhoods receive faster 311 complaint resolution times.
+
+### Highlights
+- ZIP-code level geographic analysis
+- Public service equity evaluation
+- Income-based segmentation
+- Interactive dashboard storytelling
+
+---
+
+## Healthcare Cost Analysis
+Exploratory analysis of healthcare cost drivers and demographic risk factors using Python and data visualization techniques.
+
+### Highlights
+- Smoking risk analysis
+- BMI and healthcare cost relationships
+- Age-based healthcare trends
+- Risk factor visualization
+
+---
+
+## Retail Performance Dashboard
+Interactive Tableau dashboard analyzing sales, profitability, and regional retail performance trends.
+
+### Highlights
+- KPI dashboard development
+- Profitability analysis
+- Geographic sales visualization
+- Business performance reporting
+
+
+---
+
+# LinkedIn
+
+www.linkedin.com/in/mahin-rowshon-chowdhury
