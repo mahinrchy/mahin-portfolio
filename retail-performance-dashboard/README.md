@@ -46,8 +46,7 @@ A large percentage of sales performance was concentrated within a small number o
 
 ## Dashboard Preview
 
-![Retail Dashboard](Dashboard 2.png)
-
+![Retail Dashboard](retail_dashboard.png)
 ---
 
 ## Business Recommendations
